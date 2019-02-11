@@ -4,7 +4,9 @@ Build additional functionality with your smart contract and deploy it on the pub
 Project specification
 https://review.udacity.com/#!/rubrics/2297/view
 
-Specify the Truffle version and OpenZeppelin version used in the project.
+Truffle version - v4.1.15
+OpenZeppelin version - 2.0
+
 ERC-721 Token Name - "Santhosh Notary Star Token"
 ERC-721 Token Symbol - "SNST"
 “Token Address” on the Rinkeby Network - 0x4863554315F3c505a1520eb7206a934e9b2041d2
@@ -23,7 +25,8 @@ Running migration: 2_deploy_contracts.js
 Saving artifacts...
 
 contract address
-0x4863554315F3c505a1520eb7206a934e9b2041d2 https://rinkeby.etherscan.io/address/0x4863554315f3c505a1520eb7206a934e9b2041d2
+0x4863554315F3c505a1520eb7206a934e9b2041d2 
+https://rinkeby.etherscan.io/address/0x4863554315f3c505a1520eb7206a934e9b2041d2
 
 star tokenId
 1
